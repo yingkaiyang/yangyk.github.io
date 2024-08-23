@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>杨营凯 - 联系方式</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>杨营凯</h1>
+    <p>西南大学心理学部讲师</p>
+</header>
+
+<nav>
+    <a href="index.html">主页</a>
+    <a href="publications.html">发表文章</a>
+    <a href="news.html">新闻</a>
+    <a href="contact.html">联系方式</a>
+</nav>
+
+<div class="container">
+    <div id="contact" class="section">
+        <h2>联系方式</h2>
+        <p>邮箱: <a href="mailto:yangyk0725@swu.edu.cn">yangyk0725@swu.edu.cn</a></p>
+        <p>杨营凯，Ph.D.</p>
+        <p>心理学部，427</p>
+        <p>西南大学</p>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2024 杨营凯. 版权所有。</p>
+</footer>
+
+</body>
+</html>

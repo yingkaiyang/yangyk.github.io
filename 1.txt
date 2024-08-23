@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>杨营凯 - 主页</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>杨营凯</h1>
+    <p>西南大学心理学部讲师</p>
+</header>
+
+<nav>
+    <a href="index.html">主页</a>
+    <a href="publications.html">发表文章</a>
+    <a href="news.html">新闻</a>
+    <a href="contact.html">联系方式</a>
+</nav>
+
+<div class="container">
+    <div id="home" class="section">
+        <h2>个人介绍</h2>
+        <p>我是在西南大学心理学部担任讲师。我主要研究食物抑制控制训练作用机制、饮食行为、肥胖以及慢性炎症。</p>
+        <p>我在博士后师从陈红教授(2020-2023)。在攻读博士学位期间，我在郭成教授指导下工作，关注肥胖的认知神经机制及其干预。我于2020年在西南大学获得博士学位。</p>
+        <p>我现在主要合作者包括阿肯色大学心理科学系助理教授Shields, G. S.，西南医院副研究员夏海硕，西南大学博士后张瑶瑶。</p>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2024 杨营凯. 版权所有。</p>
+</footer>
+
+</body>
+</html>

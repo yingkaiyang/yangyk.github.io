@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>杨营凯 - 发表文章</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>杨营凯</h1>
+    <p>西南大学心理学部讲师</p>
+</header>
+
+<nav>
+    <a href="index.html">主页</a>
+    <a href="publications.html">发表文章</a>
+    <a href="news.html">新闻</a>
+    <a href="contact.html">联系方式</a>
+</nav>
+
+<div class="container">
+    <div id="publications" class="section">
+        <h2>发表文章</h2>
+        <ul>
+            <li><strong>Xia, H., Wu, Q., Shields, G. S., Nie, H., Hu, X., Liu, S., ... & Yang, Y. (2024).</strong> Neural activity and Connectivity are Related to Food Preference Changes Induced by Food Go/No-Go Training. Neuropsychologia, 108919. Journal Impact Factor: 2.</li>
+            <li><strong>Wu, Q., Xia, H., Shields, G. S., Nie, H., Li, J., Chen, H., & Yang, Y. (2023).</strong> Neural correlates underlying preference changes induced by food Go/No-Go training. Appetite, 186, 106578. Journal Impact Factor: 4.6.</li>
+            <li><strong>Yang, Y., Morys, F., Wu, Q., Li, J., & Chen, H. (2023).</strong> Pilot study of food-specific go/no-go training for overweight individuals: brain imaging data suggest inhibition shapes food evaluation. Social Cognitive and Affective Neuroscience, 18(1), nsab137. Journal Impact Factor: 3.9.</li>
+            <li><strong>Yang, Y., Wang, J., Qiu, J., Feng, T., He, Q., Lei, X., & Chen, H. (2023).</strong> Perigenual anterior cingulate cortex and its structural covariance as predictors for future body fat gain in young adults. Obesity (Silver Spring, Md.). Journal Impact Factor: 4.2.</li>
+            <li><strong>Yang, F., Qi, L., Liu, S., Hu, W., Cao, Q., Liu, Y., Tang, M., Lv, Z., Zhou, Z., & Yang, Y. (2022).</strong> Body dissatisfaction and disordered eating behaviors: The mediation role of smartphone addiction and depression. Nutrients, 14(6), 1281. Journal Impact Factor: 4.6.</li>
+            <li><strong>Yang, Y., Qi, L., Morys, F., Wu, Q., & Chen, H. (2022).</strong> Food-specific inhibition training for food devaluation: a meta-analysis. Nutrients, 14(7), 1363. Journal Impact Factor: 4.8.</li>
+            <li><strong>Yang, Y., Shields, G. S., Zhang, Y., Wu, H., Chen, H., & Romer, A. L. (2022).</strong> Child executive function and future externalizing and internalizing problems: A meta-analysis of prospective longitudinal studies. Clinical Psychology Review, 102194. Journal Impact Factor: 13.7.</li>
+            <li><strong>Yang, Y., Wu, Q., & Morys, F. (2021).</strong> Brain responses to high-calorie visual food cues in individuals with normal-weight or obesity: an activation likelihood estimation meta-analysis. Brain Sciences, 11(12), 1587. Journal Impact Factor: 2.7.</li>
+            <li><strong>Yang, Y., Shields, G. S., Wu, Q., Liu, Y., Chen, H., & Guo, C. (2020).</strong> The association between obesity and lower working memory is mediated by inflammation: Findings from a nationally representative dataset of US adults. Brain, Behavior, and Immunity, 84, 173-179. Journal Impact Factor: 8.8.</li>
+            <li><strong>Yang, Y., Shields, G. S., Wu, Q., Liu, Y., Chen, H., & Guo, C. (2019).</strong> Cognitive training on eating behaviour and weight loss: A meta‐analysis and systematic review. Obesity Reviews, 20(11), 1628-1641. Journal Impact Factor: 8.</li>
+            <li><strong>Yang, Y., Shields, G. S., Wu, Q., Liu, Y., & Guo, C. (2019).</strong> Obesity is associated with poor working memory in women, not men: findings from a nationally representative dataset of US adults. Eating behaviors, 35, 101338. Journal Impact Factor: 2.4.</li>
+            <li><strong>Yang, Y., Shields, G. S., Guo, C., & Liu, Y. (2018).</strong> Executive function performance in obesity and overweight individuals: A meta-analysis and review. Neuroscience & Biobehavioral Reviews, 84, 225-244. Journal Impact Factor: 7.5.</li>
+            <li><strong>Yang, Y., Cao, S., Shields, G. S., Teng, Z., & Liu, Y. (2017).</strong> The relationships between rumination and core executive functions: A meta‐analysis. Depression and anxiety, 34(1), 37-50. Journal Impact Factor: 4.7.</li>
+            <li><strong>杨营凯, & 刘衍玲. (2016).</strong> 抑郁反刍的认知神经机制. 心理科学进展, 24(7), 1042.</li>
+            <li><strong>Liu, S., Hu, W., Yang, Y., & Yang, F. (2023).</strong> Body dissatisfaction and smartphone addiction: the mediation role of intrusive imagery and fear of negative evaluation. Frontiers in Psychology, 14, 1217220. Journal Impact Factor: 2.6.</li>
+            <li><strong>Han, J., Zhuang, K., Dong, D., Yang, Y., Liu, Y., He, Q., ... & Chen, H. (2024).</strong> Elevated BMI impacts brain‐state dynamics within the sensorimotor‐to‐transmodal hierarchy. Obesity, 32(2), 291-303. Journal Impact Factor: 4.2.</li>
+            <li><strong>Haoyu Nie, R. Z., Yun Ai, Yang, Y., Bing Cao, Pengfei Han. (2022).</strong> Comparison between human olfactory sensitivity in the fasted and fed states: A systematic review and meta-analysis. Appetite. Journal Impact Factor: 4.6.</li>
+            <li><strong>Miao, H., Li, Z., Yang, Y., & Guo, C. (2018).</strong> Social comparison orientation and social adaptation among young Chinese adolescents: The mediating role of academic self-concept. Frontiers in Psychology, 9, 1067. Journal Impact Factor: 4.6.</li>
+            <li><strong>Wang, J., Dong, D., Liu, Y., Yang, Y., Chen, X., He, Q., Lei, X., Feng, T., Qiu, J., & Chen, H. (2023).</strong> Multivariate resting-state functional connectomes predict and characterize obesity phenotypes. Cerebral Cortex, bhad122. Journal Impact Factor: 2.9.</li>
+            <li><strong>Wu, H., Guo, Y., Yang, Y., Zhao, L., & Guo, C. (2021).</strong> A meta-analysis of the longitudinal relationship between academic self-concept and academic achievement. Educational Psychology Review, 1-30. Journal Impact Factor: 10.1.</li>
+            <li><strong>郭成, 张琳雅, & 杨营凯. (2019).</strong> 青少年主观社会经济地位与心理韧性的关系: 公正世界信念的作用. 西南大学学报 (社会科学版), 45(4), 109-117.</li>
+            <li><strong>唐蕾, 刘衍玲, & 杨营凯. (2022).</strong> 亲社会行为的认知过程及脑神经基础. 心理发展与教育, 38(3), 437-446.</li>
+        </ul>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2024 杨营凯. 版权所有。</p>
+</footer>
+
+</body>
+</html>
